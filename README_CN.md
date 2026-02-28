@@ -43,6 +43,14 @@ irm https://raw.githubusercontent.com/kax168/openclaw-installer/main/install.ps1
 
 MIT
 
+## 支持项目
+
+如果这个工具帮到了你，请我喝杯咖啡 ☕
+
+| 支付宝 | 微信支付 |
+|--------|----------|
+| <img src="alipay.jpg" width="200"> | <img src="wechatpay.jpg" width="200"> |
+
 ---
 
 Built with ❤️ by [LaerKai](https://fromlaerkai.store)

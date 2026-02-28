@@ -67,6 +67,14 @@ Checks Node.js, OpenClaw, config, and service status.
 
 MIT
 
+## Support This Project
+
+If this tool saved you time, consider buying me a coffee ☕
+
+| Alipay | WeChat Pay |
+|--------|------------|
+| <img src="alipay.jpg" width="200"> | <img src="wechatpay.jpg" width="200"> |
+
 ---
 
 Built with ❤️ by [LaerKai](https://fromlaerkai.store)
